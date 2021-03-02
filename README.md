@@ -10,6 +10,6 @@ Skills: C, C++, Java, Python, Javascript, Data Structures, Algorithms, Machine L
 - 📫 How to reach me: feel free to drop me an email at nikhilvenkat26@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nikhilvenkatkumsetty)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikhil-venkat-kumsetty-92969887/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kumsettynikhil/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nikhilvenkatkumsetty)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikhil-venkat-kumsetty-92969887/)
 
 ![Profile views](https://gpvc.arturio.dev/nikhilvenkatkumsetty)  
