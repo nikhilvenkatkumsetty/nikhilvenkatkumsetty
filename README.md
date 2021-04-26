@@ -4,8 +4,8 @@ I am presently pursuing a B.Tech. in Information Technology at National Institut
 
 Skills: C, C++, Java, Python, Javascript, Data Structures, Algorithms, Machine Learning, Computer Vision, Deep Learning, NodeJS, ReactJS, MongoDB, OOPs, SQL, VueJS, Flask
 
-- 🔭 I’m currently working on the project "Temporal Attention augmented Bilinear Network for Financial Time-Series"
-- 🌱 I’m currently learning Data Analysis
+- 🔭 I’m currently working on the project "Financial-Time-series-analysis-for-High-Frequency-Trading"
+- 🌱 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on projects related to deep learning 
 - 📫 How to reach me: feel free to drop me an email at nikhilvenkat26@gmail.com 
 
