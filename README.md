@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Nikhil Venkat
 #### I am an enthusiastic and self-motivated learner
+I am an incoming Associate Software Engineer at ServiceNow Hyderabad office.
 I am presently pursuing a B.Tech. in Information Technology at National Institute of Technology Karnataka, Surathkal
 
 Skills: C, C++, Java, Python, Javascript, Data Structures, Algorithms, Machine Learning, Computer Vision, Deep Learning, NodeJS, ReactJS, MongoDB, OOPs, SQL, VueJS, Flask
